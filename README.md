@@ -1,4 +1,4 @@
-![GITHUB](https://github.com/user-attachments/assets/60997f9d-2d87-484c-b52c-9d6b980f3567)
+![Designer](https://github.com/user-attachments/assets/ed22eed3-efa6-48ca-afc9-4b770e48493f)
 
 <h1 align="center">Hi 👋 Guys, Iam RAKESH GAJULA an adventurer in the realms.Welcome to my GitHub universe! of code galaxies.</h1>
 <h3 align="center">As a Python Full Stack developer from India, I'm passionate about coding.</h3>
