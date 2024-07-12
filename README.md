@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 Guys, Iam RAKESH GAJULA an adventurer in the realms.Welcome to my GitHub universe! of code galaxies.</h1>
 <h3 align="center">As a Python Full Stack developer from India, I'm passionate about coding.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-gajula09&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-gajula09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-gajula09&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-gajula09"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakesh-gajula09" alt="rakesh-gajula09" /></a> </p>
 <h1 align="center">Right now, my focus revolves around creating innovative solutions through PYTHON FULL STACK projects</h1><br>
